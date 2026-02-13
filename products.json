@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Wireless Mouse",
+        "price": 25.99,
+        "product_id": "1001",
+        "stock": 46
+    },
+    {
+        "name": "Mechanical Keyboard",
+        "price": 75.5,
+        "product_id": "1002",
+        "stock": 20
+    },
+    {
+        "name": "USB-C Hub",
+        "price": 15.0,
+        "product_id": "1003",
+        "stock": 100
+    },
+    {
+        "name": "HD Webcam",
+        "price": 45.99,
+        "product_id": "1004",
+        "stock": 15
+    },
+    {
+        "name": "Noise Cancelling Headphones",
+        "price": 120.0,
+        "product_id": "1005",
+        "stock": 10
+    }
+]
